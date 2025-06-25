@@ -63,8 +63,7 @@ Analyzes multiple documents for similarity using multiple classic and ML-based t
 
 ## 🔗 Online Profiles
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mayankarora-cse23)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-arora-8ab584281)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mayankarora-cse23)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-arora-8ab584281)
 
 ---
 
